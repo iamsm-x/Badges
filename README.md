@@ -1,3 +1,3 @@
 # Badges
 
-Hello from SOham Mate
+Hello from Soham Mate
